@@ -14,15 +14,6 @@ A React-based bill management application designed to help users manage their mo
 ### Level 2
 - **Highlight Bills Under Budget**: Users can input a budget to highlight the minimum number of bills whose total does not exceed the budget.
 
----
-
-## Demo
-
-### **Screenshot of the Application**
-(Insert screenshots of your app here)
-
----
-
 ## Tech Stack
 
 - **Frontend**: React, Redux, Bootstrap
